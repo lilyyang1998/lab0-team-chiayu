@@ -4,7 +4,6 @@
 /* Hello World */
 
 // PID: 9DigitPidNoSpacesOrDashes
-// I pledge the COMP530 honor code.
 
 #include <stdio.h>
 #include <stdlib.h>
