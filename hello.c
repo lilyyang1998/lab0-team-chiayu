@@ -13,6 +13,7 @@
 
 int main()
 {
-    printf("hello, welcome to comp 530!");
+    printf("hello, welcome to comp 530!\n");
+    printf("%d\n", getpid());
     return EXIT_SUCCESS;
 }
