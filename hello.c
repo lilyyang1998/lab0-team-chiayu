@@ -3,7 +3,7 @@
 
 /* Hello World */
 
-// PID: 9DigitPidNoSpacesOrDashes
+// PID: 730716991
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -13,6 +13,6 @@
 
 int main()
 {
-    // Your code here
+    printf("hello, welcome to comp 530!");
     return EXIT_FAILURE;
 }
