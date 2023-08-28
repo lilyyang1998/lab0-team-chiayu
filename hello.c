@@ -13,7 +13,13 @@
 
 int main()
 {
+
     printf("hello, welcome to comp 530!\n");
+
     printf("%d\n", getpid());
+
+    char cwd[100];
+    printf("%s\n", getcwd(cwd, sizeof(cwd)));
+
     return EXIT_SUCCESS;
 }
