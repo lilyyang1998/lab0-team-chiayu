@@ -13,11 +13,11 @@
 
 int main()
 {
-
+    // Hello World
     printf("hello, welcome to comp 530!\n");
-
+    // Process ID
     printf("%d\n", getpid());
-
+    // Current Directory
     char cwd[100];
     printf("%s\n", getcwd(cwd, sizeof(cwd)));
 
