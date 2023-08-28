@@ -14,5 +14,5 @@
 int main()
 {
     printf("hello, welcome to comp 530!");
-    return EXIT_FAILURE;
+    return EXIT_SUCCESS;
 }
